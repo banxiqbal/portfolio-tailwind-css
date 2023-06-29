@@ -4,6 +4,7 @@
 
 body {
   font-family: "inter", sans-serif;
+  overflow-x: hidden;
 }
 
 .navbar-fixed {
